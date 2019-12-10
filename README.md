@@ -1,8 +1,8 @@
 # 19-20_TWOIng4_Projet
 
-Hélène Carlier-Gubler
-Daniel Ikka
-ING4 OCRES TD2
+Hélène Carlier-Gubler<br>
+Daniel Ikka<br>
+ING4 OCRES TD2<br>
 
 <p align="center">
 <a href="https://github.com/DanielIKKA/19-20_TWOIng4_Projet">Lien du repository</a> 
@@ -56,8 +56,9 @@ lien loom :
 <p align="center">
 <a href="https://www.figma.com/file/83MoU9jIldFIingAPOiYmi/ProjetReact?node-id=85%3A200">Lien Figma</a> 
 </p>
+<br>
 - Zooning
 - Wareframe
 - UI
-Tout ca en réfléchissant en 2 modes : ordinateur et téléphone
+<br>Tout ca en réfléchissant en 2 modes : ordinateur et téléphone
 
