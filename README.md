@@ -1,3 +1,53 @@
-#Projet de fin de semestre
+# 19-20_TWOIng4_Projet
 
-https://github.com/DanielIKKA/19-20_TWOIng4_Projet
+Hélène Carlier-Gubler
+Daniel Ikka
+ING4 OCRES TD2
+
+<p align="center">
+<a href="https://github.com/DanielIKKA/19-20_TWOIng4_Projet">Lien du repository</a> 
+</p>
+
+# Get started
+
+lien loom : 
+
+
+# Fonctionnalités
+
+>Back
+- BDD sur Atlas 
+- Api connectée au port 3030
+- CRUD implémenté 
+- <a href="https://documenter.getpostman.com/view/9518575/SWE83Gwy">Documentation POSTMAN</a> 
+- Delete en cascade (User delete ses Sensors et Sensor delete ses Measures)
+
+> Front
+- connecté au port 3000
+- local
+- bouton refresh (en haut à droite) qui permet de rafraichir la page
+- widget d'attente lorsque l'API cherche les données de la BDD
+- Possibilité de passer d'un mode dark à un mode light grâce au bouton en haut à droite dans le header
+
+> Dashboard
+- Visibilité des 3 dernières mesures prises par l'ensemble des capteurs (température, pollution de l'air et humidité)
+- Widget qui affiche l'heure (qui s'incremente automatiquement)
+- Widget Report qui montre la proportion des users par rapport au pays/nombre de personne dans la maison/taille de la maison
+- Possibilité de changer les statistiques du widget report grâce à un selecteur
+- tableau de l'ensemble des valeurs du report en fonction du selecteur
+- bouton "settings" qui permet d'accéder à la page de l'admin
+
+> Admin
+- 3 widgets qui affiches respectivements le nombre de clients, le nombre de capteurs et le nombre de mesures
+- Lorsque l'on clique sur l'un de ces widget, un tableau apparait avec la liste de type qu'on veut afficher (clients, capteurs, mesures)
+- On peut supprimer l'un de nos utilisateurs, capteurs ou mesures en cliquant sur la poubelle en rouge à droite de chacune des lignes dans le tableau précisé ci dessus
+- 3 boutons "+", lorsque l'on clique dessus affiche un widget formulaire qui nous permet de créer un utilisateurs,capteurs ou mesures en fonction du bouton sur lequel on clique
+- Refresh dès qu'on ajoute ou supprime une des données
+
+
+
+# Comment nous avons travaillé
+> AirTable
+<p align="center">
+<a href="https://airtable.com/invite/l?inviteId=invNiL38BBBMhgqwx&inviteToken=f28298a29099001e4c190a73650db70b7e29b05f082b6f687d6ac232189f88af">Lien AirTable</a> 
+</p>
