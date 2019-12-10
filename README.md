@@ -51,3 +51,13 @@ lien loom :
 <p align="center">
 <a href="https://airtable.com/invite/l?inviteId=invNiL38BBBMhgqwx&inviteToken=f28298a29099001e4c190a73650db70b7e29b05f082b6f687d6ac232189f88af">Lien AirTable</a> 
 </p>
+
+>Figma
+<p align="center">
+<a href="https://www.figma.com/file/83MoU9jIldFIingAPOiYmi/ProjetReact?node-id=85%3A200">Lien Figma</a> 
+</p>
+- Zooning
+- Wareframe
+- UI
+Tout ca en réfléchissant en 2 modes : ordinateur et téléphone
+
