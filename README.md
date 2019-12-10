@@ -10,7 +10,18 @@ ING4 OCRES TD2<br>
 
 # Get started
 
-lien loom : 
+1. Ouvrir une invite de commande sur le repository local du projet
+2. taper "cd api"
+3. taper "npm start"
+4. Dans une autre invite de commande, ouvrir le repository
+5. taper "cd website"
+6. taper "npm start"
+7. Une page web va s'ouvrir
+8. Vous pouvez naviguer sur la page web entre le dashboard et la page admin accessible grâce au bouton "settings"
+> Pour plus d'information, regarder la vidéo suivante.
+<p align="center">
+<a href=#>Lien vidéo loom</a> 
+</p>
 
 
 # Fonctionnalités
@@ -64,8 +75,10 @@ lien loom :
 
 
 # Piste d'amélioration
+- Création d'un fichier javascript qui permet l'ouverture des deux ports en même temps sans avoir besoin de faire npm start sur deux invites de commande différentes
+- Mise en production des sites
 - Creation d'un capteur ou d'une mesure pas à partir de l'ID brut mais à partir d'un click
-- graphe qui montre la moyenne des différentes type de valeur (humidité, température, pollution de l'air) en fonction du temps ou des pièces où les capteurs sont placés
+- graphe qui montre la moyenne des différentes type de valeur (humidité, température, pollution de l'air) en fonction du temps ou des pièces où les capteurs sont placés (prévu dans le rendu mais manque de temps pour le faire)
 - respect de la vie privée des utilisateurs (discussion avec Netatmo)
 - avoir un graphisme en mode sombre plus agréable dans la page admin
 
@@ -77,3 +90,4 @@ lien loom :
 <a href="https://www.w3schools.com/react/react_forms.asp">w3schools : Forms React</a><br>
 <a href="https://jsfiddle.net/alidingling/3Leoa7f4/">Pie Chart</a><br>
 <a href="https://react-select.com/home">Select React</a><br>
+<a href="https://www.markdownguide.org/">Documentation Markdown</a><br>
