@@ -45,6 +45,7 @@ ING4 OCRES TD2<br>
 - Widget qui affiche l'heure (qui s'incremente automatiquement)
 - Widget Report qui montre la proportion des users par rapport au pays/nombre de personne dans la maison/taille de la maison
 - Possibilité de changer les statistiques du widget report grâce à un selecteur
+- Lorsque l'on passe la souris sur le PieChart, on peut voir les différents groupes du selecteur
 - tableau de l'ensemble des valeurs du report en fonction du selecteur
 - bouton "settings" qui permet d'accéder à la page de l'admin
 
