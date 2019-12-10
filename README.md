@@ -11,11 +11,11 @@ ING4 OCRES TD2<br>
 # Get started
 
 1. Ouvrir une invite de commande sur le repository local du projet
-2. taper ```javascript cd api ```
-3. taper "npm start"
+2. taper ```cd api ```
+3. taper ```npm start```
 4. Dans une autre invite de commande, ouvrir le repository
-5. taper "cd website"
-6. taper "npm start"
+5. taper ```cd website```
+6. taper ```npm start```
 7. Une page web va s'ouvrir
 8. Vous pouvez naviguer sur la page web entre le dashboard et la page admin accessible grâce au bouton "settings"
 > Pour plus d'information, regarder la vidéo suivante.
