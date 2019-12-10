@@ -70,14 +70,10 @@ lien loom :
 - avoir un graphisme en mode sombre plus agréable dans la page admin
 
 # Sources
-<a href="https://lodash.com/">Documentation Lodash</a>
-<a href="https://mongoosejs.com/docs/guide.html">Documentation Mongoose</a>
-<a href="https://stackoverflow.com/questions/14348516/cascade-style-delete-in-mongoose">Stackoverflow : suppression en cascade</a>
-<a href="https://material.io/resources/icons/?style=baseline">icons</a>
-<a href="https://www.w3schools.com/react/react_forms.asp">w3schools : Forms React</a>
-<a href="https://jsfiddle.net/alidingling/3Leoa7f4/">Pie Chart</a>
-
-
-
-
-
+<a href="https://lodash.com/">Documentation Lodash</a><br>
+<a href="https://mongoosejs.com/docs/guide.html">Documentation Mongoose</a><br>
+<a href="https://stackoverflow.com/questions/14348516/cascade-style-delete-in-mongoose">Stackoverflow : suppression en cascade</a><br>
+<a href="https://material.io/resources/icons/?style=baseline">icons</a><br>
+<a href="https://www.w3schools.com/react/react_forms.asp">w3schools : Forms React</a><br>
+<a href="https://jsfiddle.net/alidingling/3Leoa7f4/">Pie Chart</a><br>
+<a href="https://react-select.com/home">Select React</a><br>
