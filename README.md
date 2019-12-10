@@ -11,10 +11,7 @@ ING4 OCRES TD2<br>
 # Get started
 
 1. Ouvrir une invite de commande sur le repository local du projet
-2. taper "cd api"
- ```javascript
-  cd api
-  ```
+2. taper ```javascript cd api ```
 3. taper "npm start"
 4. Dans une autre invite de commande, ouvrir le repository
 5. taper "cd website"
