@@ -62,3 +62,22 @@ lien loom :
 - UI
 <br>Tout ca en réfléchissant en 2 modes : ordinateur et téléphone
 
+
+# Piste d'amélioration
+- Creation d'un capteur ou d'une mesure pas à partir de l'ID brut mais à partir d'un click
+- graphe qui montre la moyenne des différentes type de valeur (humidité, température, pollution de l'air) en fonction du temps ou des pièces où les capteurs sont placés
+- respect de la vie privée des utilisateurs (discussion avec Netatmo)
+- avoir un graphisme en mode sombre plus agréable dans la page admin
+
+# Sources
+<a href="https://lodash.com/">Documentation Lodash</a>
+<a href="https://mongoosejs.com/docs/guide.html">Documentation Mongoose</a>
+<a href="https://stackoverflow.com/questions/14348516/cascade-style-delete-in-mongoose">Stackoverflow : suppression en cascade</a>
+<a href="https://material.io/resources/icons/?style=baseline">icons</a>
+<a href="https://www.w3schools.com/react/react_forms.asp">w3schools : Forms React</a>
+<a href="https://jsfiddle.net/alidingling/3Leoa7f4/">Pie Chart</a>
+
+
+
+
+
