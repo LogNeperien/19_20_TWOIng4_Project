@@ -20,7 +20,7 @@ ING4 OCRES TD2<br>
 8. Vous pouvez naviguer sur la page web entre le dashboard et la page admin accessible grâce au bouton "settings"
 > Pour plus d'information, regarder la vidéo suivante (à mettre en x2 :stuck_out_tongue_winking_eye: )
 <p align="center">
-<a href=https://www.loom.com/share/640442ed75524dad967d8f3a1a2a97b5>Lien vidéo loom</a> 
+<a href=https://www.loom.com/share/999913ae31f04bfe8aacb635f0fd1b07>Lien vidéo loom</a> 
 </p>
 
 
