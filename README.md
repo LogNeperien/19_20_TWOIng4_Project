@@ -29,13 +29,12 @@ ING4 OCRES TD2<br>
 >Back
 - BDD sur Atlas 
 - Api connectée au port 3030
-- CRUD implémenté 
+- CRUD implémenté
 - <a href="https://documenter.getpostman.com/view/9518575/SWE83Gwy">Documentation POSTMAN</a> 
 - Delete en cascade (User delete ses Sensors et Sensor delete ses Measures)
 
 > Front
-- connecté au port 3000
-- local
+- connecté au port 3000 local
 - bouton refresh (en haut à droite) qui permet de rafraichir la page
 - widget d'attente lorsque l'API cherche les données de la BDD
 - Possibilité de passer d'un mode dark à un mode light grâce au bouton en haut à droite dans le header
