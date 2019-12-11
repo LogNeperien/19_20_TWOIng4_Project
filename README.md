@@ -18,9 +18,9 @@ ING4 OCRES TD2<br>
 6. taper ```npm start```
 7. Une page web va s'ouvrir
 8. Vous pouvez naviguer sur la page web entre le dashboard et la page admin accessible grâce au bouton "settings"
-> Pour plus d'information, regarder la vidéo suivante.
+> Pour plus d'information, regarder la vidéo suivante (à mettre en x2 :stuck_out_tongue_winking_eye: )
 <p align="center">
-<a href=#>Lien vidéo loom</a> 
+<a href=https://www.loom.com/share/640442ed75524dad967d8f3a1a2a97b5>Lien vidéo loom</a> 
 </p>
 
 
@@ -29,12 +29,13 @@ ING4 OCRES TD2<br>
 >Back
 - BDD sur Atlas 
 - Api connectée au port 3030
-- CRUD implémenté
+- CRUD implémenté 
 - <a href="https://documenter.getpostman.com/view/9518575/SWE83Gwy">Documentation POSTMAN</a> 
 - Delete en cascade (User delete ses Sensors et Sensor delete ses Measures)
 
 > Front
-- connecté au port 3000 local
+- connecté au port 3000
+- local
 - bouton refresh (en haut à droite) qui permet de rafraichir la page
 - widget d'attente lorsque l'API cherche les données de la BDD
 - Possibilité de passer d'un mode dark à un mode light grâce au bouton en haut à droite dans le header
@@ -79,7 +80,7 @@ ING4 OCRES TD2<br>
 - Création d'un fichier javascript qui permet l'ouverture des deux ports en même temps sans avoir besoin de faire npm start sur deux invites de commande différentes
 - Mise en production des sites
 - Creation d'un capteur ou d'une mesure pas à partir de l'ID brut mais à partir d'un click
-- graphe qui montre la moyenne des différentes type de valeur (humidité, température, pollution de l'air) en fonction du temps ou des pièces où les capteurs sont placés (prévu dans le rendu mais manque de temps pour le faire)
+- graphe qui montre la moyenne des différentes type de valeur (humidité, température, pollution de l'air) en fonction du temps ou des pièces où les capteurs sont placés (prévu dans le rendu principal mais manque de temps pour le faire)
 - respect de la vie privée des utilisateurs (discussion avec Netatmo)
 - avoir un graphisme en mode sombre plus agréable dans la page admin
 
