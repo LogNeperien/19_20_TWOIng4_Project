@@ -39,6 +39,7 @@ ING4 OCRES TD2<br>
 - bouton refresh (en haut à droite) qui permet de rafraichir la page
 - widget d'attente lorsque l'API cherche les données de la BDD
 - Possibilité de passer d'un mode dark à un mode light grâce au bouton en haut à droite dans le header
+- Responsive
 
 > Dashboard
 - Visibilité des 3 dernières mesures prises par l'ensemble des capteurs (température, pollution de l'air et humidité)
