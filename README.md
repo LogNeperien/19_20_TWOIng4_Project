@@ -61,19 +61,28 @@ ING4 OCRES TD2<br>
 
 # Comment nous avons travaillé
 > AirTable
+- Lien vers la vue de l'ensemble des tâches classé par jalon (définit dans une autres view)
 <p align="center">
-<a href="https://airtable.com/invite/l?inviteId=invNiL38BBBMhgqwx&inviteToken=f28298a29099001e4c190a73650db70b7e29b05f082b6f687d6ac232189f88af">Lien AirTable</a> 
+<a href="https://airtable.com/shrVc9Rygnx5MfxAF/tblORFBiyjI8KVIwe?backgroundColor=yellow&viewControls=on&blocks=hide">Milestones Grid View</a> 
+</br><a href=https://airtable.com/shr3VvyR4sihMAWSm/tblORFBiyjI8KVIwe?backgroundColor=yellow&viewControls=on&blocks=hide>Kaban view</a>
+</br>Kanban view by person : <a href=https://airtable.com/shr89HOipO9SWsX0V/tblORFBiyjI8KVIwe?blocks=hide>Hélène</a> |
+<a href=https://airtable.com/shriyHvGBBohKTE3h>Daniel</a> 
 </p>
+
+- Lien vers la "Spec" de l'API : <a href=https://airtable.com/shrGcSnJxLpiU0xDF>STC</a> 
+  
+
 
 >Figma
 <p align="center">
 <a href="https://www.figma.com/file/83MoU9jIldFIingAPOiYmi/ProjetReact?node-id=85%3A200">Lien Figma</a> 
 </p>
-<br>
+
 - Zooning
 - Wareframe
 - UI
-<br>Tout ca en réfléchissant en 2 modes : ordinateur et téléphone
+
+Tout ca en réfléchissant en 2 modes : ordinateur et téléphone
 
 
 # Pistes d'amélioration
