@@ -76,7 +76,7 @@ ING4 OCRES TD2<br>
 <br>Tout ca en réfléchissant en 2 modes : ordinateur et téléphone
 
 
-# Piste d'amélioration
+# Pistes d'amélioration
 - Création d'un fichier javascript qui permet l'ouverture des deux ports en même temps sans avoir besoin de faire npm start sur deux invites de commande différentes
 - Mise en production des sites
 - Creation d'un capteur ou d'une mesure pas à partir de l'ID brut mais à partir d'un click
